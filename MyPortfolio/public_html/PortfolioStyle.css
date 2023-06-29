@@ -1,0 +1,96 @@
+
+body{
+    background-image: url("background3.jpg");
+    background-repeat: cover;
+}
+h3{
+    
+    font-size: 20px;
+    color: azure;
+    text-align: center;
+    padding-bottom: 10px;
+}
+#Sayings{
+    color: green;
+    font-size: 25px;
+    margin-top: -5px;
+    margin-left: -5px; 
+    
+}
+#Logo{
+    
+    text-align: center;
+}
+.Intro{
+    
+    border-style: solid;
+    width: 275px;
+    border-color: azure;
+    margin-top: 60px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    color: azure;
+}
+.Details{
+    
+    text-align: left;
+    color:azure;
+    font-size: 20px;
+    margin-top: -505px; 
+    margin-left: 400px;   
+}
+#skills{
+    text-align: left;
+    color: azure;
+    font-size: 23px;
+    margin-top: -505px; 
+    margin-left: 1px;
+    
+}
+h1 {
+	
+        color: azure;
+        padding-left: 350px;
+        margin-top: 450px;
+        border-bottom: 3px solid azure;
+        padding-bottom: 20px;
+		}
+
+		.container {
+			max-width: 600px;
+			margin: 0 auto;
+			padding: 20px;
+		}
+
+		.contact-info {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: space-between;
+			align-items: center;
+		}
+
+		.contact-info-item {
+			display: flex;
+			align-items: center;
+			margin-bottom: 20px;
+		}
+
+		.contact-info-item img {
+			width: 30px;
+			height: 30px;
+			margin-right: 10px;
+		}
+
+		.contact-info-item a {
+			color: azure;
+			font-weight: bold;
+			text-decoration: none;
+		}
+
+		.contact-info-item a:hover {
+			color: green;
+		}
+
+
